@@ -1,5 +1,5 @@
 #! /bin/bash
 
-ln -s ~/dotfiles/.vimrc ~/.vimrc
-ln -s ~/dotfiles/.bashrc ~/.bashrc
-ln -s ~/dotfiles/.vim ~/.vim
+ln -sf ~/dotfiles/.vimrc ~/.vimrc
+ln -sf ~/dotfiles/colors ~/.vim
+ln -sf ~/dotfiles/.bashrc ~/.bashrc
